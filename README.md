@@ -1,5 +1,5 @@
 # Stones-UnityLR-Projects
-Unity Learning Resource Projects
+Unity Learning Resource Projects for practice and learning
 
 
-Comming Soon!
+Comming Soon
